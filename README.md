@@ -1,1 +1,3 @@
 # Loan-Prediction-using-ML
+
+This project focuses on building a predictive system that evaluates whether a loan should be approved or rejected using machine learning techniques. By analyzing historical loan application data—including factors like income, credit history, loan amount, and employment status—the model identifies patterns to make accurate predictions. Algorithms such as Logistic Regression, Decision Tree, and Random Forest are implemented to train the model and optimize prediction accuracy. This solution aims to assist financial institutions in automating and improving the loan approval process.
